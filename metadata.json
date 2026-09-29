@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Group Poultry Management",
+  "description": "Enterprise poultry management system for Kingdom Group, tracking flock inventory, brooding, egg production, sales, expenses, and financial reports. Developed by CEO Junior Jackson Massawe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
